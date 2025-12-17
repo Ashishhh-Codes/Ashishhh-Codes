@@ -62,15 +62,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitish0202a-r&show_icons=true&theme=tokyonight&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishkeshri&show_icons=true&theme=tokyonight&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&bg_color=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nitish0202a-r&theme=dark&ring=1e90ff&fire=1e90ff&currStreakLabel=1e90ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashishkeshri&theme=dark&ring=1e90ff&fire=1e90ff&currStreakLabel=1e90ff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish0202a-r&layout=compact&theme=tokyonight&title_color=1e90ff&text_color=ffffff&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkeshri&layout=compact&theme=tokyonight&title_color=1e90ff&text_color=ffffff&bg_color=000000" />
 </p>
 
 ---
@@ -78,8 +78,8 @@
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitish0202a-r&theme=algolia&no-bg=true&margin-w=15&title=Followers,Stars,Commit,Repositories&column=4&no-frame=true" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishkeshri&them
+
 
 ---
 
@@ -97,5 +97,5 @@
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitish0202a-r&theme=github-compact&bg_color=000000&color=1e90ff&line=1e90ff&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkeshri&theme=github-compact&bg_color=000000&color=1e90ff&line=1e90ff&point=ffffff" />
 </p>
